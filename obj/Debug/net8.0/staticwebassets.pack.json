@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hhhff/Desktop/products/wwwroot/images/0e57951e-bc32-4f6b-86d6-a4baca257f59.PNG",
+      "PackagePath": "staticwebassets/images/0e57951e-bc32-4f6b-86d6-a4baca257f59.PNG"
+    },
+    {
+      "Id": "/Users/hhhff/Desktop/products/wwwroot/images/18da9120-cffd-46ed-9ed5-c267e4339b00.jpeg",
+      "PackagePath": "staticwebassets/images/18da9120-cffd-46ed-9ed5-c267e4339b00.jpeg"
+    },
+    {
+      "Id": "/Users/hhhff/Desktop/products/wwwroot/images/1eab07a5-3a7f-49fa-948e-65a358323511.jpg",
+      "PackagePath": "staticwebassets/images/1eab07a5-3a7f-49fa-948e-65a358323511.jpg"
+    },
+    {
+      "Id": "/Users/hhhff/Desktop/products/wwwroot/images/bb55e0f8-aa39-4f90-9e79-80882656ac44.png",
+      "PackagePath": "staticwebassets/images/bb55e0f8-aa39-4f90-9e79-80882656ac44.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.products.props",
+      "PackagePath": "build\\products.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.products.props",
+      "PackagePath": "buildMultiTargeting\\products.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.products.props",
+      "PackagePath": "buildTransitive\\products.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.products.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
